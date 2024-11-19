@@ -15,7 +15,7 @@ We also integrated **Copilot**, an AI-powered tool, to enhance the speed and eff
 
 ## Hackathon Context
 
-This project was developed in **under 48 hours** as part of the **MIS Breakthrough Hackathon**, a high-pressure event encouraging innovation in solving real-world cybersecurity issues. The event focused on integrating **AI tools like Copilot** to accelerate development and foster collaborative problem-solving.
+This project was developed in **under 2 hours** as part of the **MIS Breakthrough Hackathon**, a high-pressure event encouraging innovation in solving real-world cybersecurity issues. The event focused on integrating **AI tools like Copilot** to accelerate development and foster collaborative problem-solving.
 
 Our key objectives:
 - Build a scalable solution for securing IoT devices in workplaces.
